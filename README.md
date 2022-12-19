@@ -34,6 +34,22 @@ We used the movie data that was provided to us and a variety of information rele
 
 The graph belows shows how the genres for Musical, Horror, Mystery, Fantasy, Family, Animation, Documentary, Biography, Thriller, History, and Romance are all above the average line for Return on investment for each genre.
 
+![image](https://user-images.githubusercontent.com/119024066/208545841-8e884aa3-829d-401a-b201-4ae6cece039b.png)
+
+
+![image](https://user-images.githubusercontent.com/119024066/208546261-35593cc8-dc82-4716-8213-9d2b4e89ed95.png)
+
+
+![image](https://user-images.githubusercontent.com/119024066/208546287-1476c9d3-2e19-40e3-96db-0ddbbee255ce.png)
+
+
+![image](https://user-images.githubusercontent.com/119024066/208546322-19505871-af71-4ae9-89cf-c08f6b28728a.png)
+
+
+![image](https://user-images.githubusercontent.com/119024066/208546342-b8824516-7393-4509-97a8-2317a80397e3.png)
+
+
+![image](https://user-images.githubusercontent.com/119024066/208546382-91265e67-5f60-4a77-a993-99728673e5d2.png)
 
 
 

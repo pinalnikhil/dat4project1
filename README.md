@@ -40,13 +40,12 @@ The graph belows shows the combination of the averagerationg and nomber of avera
 
 ![image](https://user-images.githubusercontent.com/119024066/208546287-1476c9d3-2e19-40e3-96db-0ddbbee255ce.png)
 
-Most movies make anywhere for 0 to 250,000,000 million dollars for their worldwide gross.
+Most movies make anywhere for 0 to 182500000  dollars for their worldwide gross.
 
 ![image](https://user-images.githubusercontent.com/119024066/208546322-19505871-af71-4ae9-89cf-c08f6b28728a.png)
 
-
+Lastly we can see from the below two graph what the average foreign gross is for movies released in each year.
 ![image](https://user-images.githubusercontent.com/119024066/208546342-b8824516-7393-4509-97a8-2317a80397e3.png)
-
 
 ![image](https://user-images.githubusercontent.com/119024066/208546382-91265e67-5f60-4a77-a993-99728673e5d2.png)
 

@@ -32,17 +32,13 @@ We used the movie data that was provided to us and a variety of information rele
 
 ## Let's understand the visualisations  
 
-The graph belows shows how the genres for Musical, Horror, Mystery, Fantasy, Family, Animation, Documentary, Biography, Thriller, History, and Romance are all above the average line for Return on investment for each genre.
-
+The graph belows shoes top five types of the genres like Romance, documentary, Drama, Action,adventure,fantasy, mystery,thriller, or are all above gives information about of the Averagerating..
 ![image](https://user-images.githubusercontent.com/119024066/208545841-8e884aa3-829d-401a-b201-4ae6cece039b.png)
 
-
-![image](https://user-images.githubusercontent.com/119024066/208546261-35593cc8-dc82-4716-8213-9d2b4e89ed95.png)
-
-
+The graph belows shows the combination of the averagerationg and nomber of averageration. We clearly understand that very few kind of genres, which people like to watch.
 ![image](https://user-images.githubusercontent.com/119024066/208546287-1476c9d3-2e19-40e3-96db-0ddbbee255ce.png)
 
-
+Most movies make anywhere for 0 to 250,000,000 million dollars for their worldwide gross.
 ![image](https://user-images.githubusercontent.com/119024066/208546322-19505871-af71-4ae9-89cf-c08f6b28728a.png)
 
 

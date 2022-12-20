@@ -51,6 +51,10 @@ Lastly we can see from the below two graph what the average foreign gross is for
 
 
 
+![image](https://user-images.githubusercontent.com/119024066/208550873-146a1478-fa94-4620-8cce-25dc5be5d394.png)
+
+
+
 Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
 ## Summary

@@ -63,13 +63,3 @@ The analysis yields three suggestions.
 
 3)The length of Microsoft's movies should be between 90 and 125 minutes.
 
-
-
-## Repository Structure
-├── data                                <- Both sourced externally and generated from code
-├── Extra                               <- Generated from code
-├── images                              <- Both sourced externally and generated from code
-├── src                                 <- Both sourced externally and generated from code
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── README.md                           <- The top-level README for reviewers of this project

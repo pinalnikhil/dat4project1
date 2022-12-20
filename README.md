@@ -60,13 +60,11 @@ This explains the graph above in greater depth and demonstrates just how many ge
 The analysis yields three suggestions.
 1) Microsoft should produce either a Documentary, Romance, or mystery movie and release it in either June or November.
 2) They should analyze the plot to set an universal gross objective that is associated to Microsoft's production budget based on the company's production budget.
+
 3)The length of Microsoft's movies should be between 90 and 125 minutes.
 
-## For More Information
-For More Information
-Please review our full analysis in our Jupyter Notebook or our presentation
 
-For any additional questions, please contact Kyle Vosen: kylevosen1999@gmail.com, Charlie Fountain: charliefountain122@gmail.com, Griffin Riner: gnr400800@gmail.com
+
 ## Repository Structure
 ├── data                                <- Both sourced externally and generated from code
 ├── Extra                               <- Generated from code

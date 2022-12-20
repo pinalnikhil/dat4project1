@@ -65,7 +65,7 @@ The analysis yields three suggestions.
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
+
 ```
 ├── zippeddata                                
 ├── .canvas                             

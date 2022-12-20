@@ -63,3 +63,15 @@ The analysis yields three suggestions.
 
 3)The length of Microsoft's movies should be between 90 and 125 minutes.
 
+## Repository Structure
+
+Describe the structure of your repository and its contents, for example:
+```
+├── zippeddata                                
+├── .canvas                             
+├── LICENSE.md                           
+├── README.md                                 
+├── DS_Project_Presentation.pdf         
+├── awesome.gif
+├── student.ipynb                        
+```

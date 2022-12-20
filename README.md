@@ -49,23 +49,18 @@ Lastly we can see from the below two graph what the average foreign gross is for
 
 ![image](https://user-images.githubusercontent.com/119024066/208546382-91265e67-5f60-4a77-a993-99728673e5d2.png)
 
+the graph below showa the average running time of all the films in our data collection is 90 minutes, with the majority of them falling between 80 and 110 minutes.
+This explains the graph above in greater depth and demonstrates just how many genres have average runtimes that are longer than 97 minutes.
+
+![image](https://user-images.githubusercontent.com/119024066/208551282-e1c79411-7eb0-4904-b263-d9a87b87e704.png)
 
 
-![image](https://user-images.githubusercontent.com/119024066/208550873-146a1478-fa94-4620-8cce-25dc5be5d394.png)
 
-
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This analysis leads to 3 recommendations
-
-Microsoft should produce either a Musical, Animation, Fantasy, or Family movie and release it in either June or November.
-
-Based on Microsofts production budget they should use the regression plot to aim for a worldwide gross goal that is correlated to its production budget
-
-Microsoft should aim to make their movies anywhere between 90 and 125 minutes
+## Conclusion
+The analysis yields three suggestions.
+1) Microsoft should produce either a Documentary, Romance, or mystery movie and release it in either June or November.
+2) They should analyze the plot to set an universal gross objective that is associated to Microsoft's production budget based on the company's production budget.
+3)The length of Microsoft's movies should be between 90 and 125 minutes.
 
 ## For More Information
 For More Information

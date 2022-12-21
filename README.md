@@ -60,7 +60,7 @@ The analysis yields three suggestions.
 1) Microsoft should produce either a Documentary, Romance, or mystery movie and release it in either June or November.
 2) They should analyze the plot to set an universal gross objective that is associated to Microsoft's production budget based on the company's production budget.
 
-3)The length of Microsoft's movies should be between 90 and 125 minutes.
+ 3.The length of Microsoft's movies should be between 90 and 125 minutes.
 
 
 

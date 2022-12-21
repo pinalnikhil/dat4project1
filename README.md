@@ -72,7 +72,7 @@ The analysis yields three suggestions.
 ├── .canvas                             
 ├── LICENSE.md                           
 ├── README.md                                 
-├── DS_Project_Presentation.pdf         
+├── Project_Presentation   
 ├── awesome.gif
 ├── student.ipynb                        
 ```
